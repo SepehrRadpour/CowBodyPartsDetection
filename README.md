@@ -8,7 +8,7 @@ This repository contains code for detecting cows in videos using the YOLOv5 obje
 1. Clone the repository: 🛠️
 
 ```bash
-git clone https://github.com/SepehrRadpour/CowSegmentation.git
+git clone https://github.com/SepehrRadpour/CowBodyPartsDetection.git
 ```
 
 2. Install the required dependencies:
